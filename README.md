@@ -579,7 +579,7 @@ Download JSON
 Replace the placeholder with your actual GitHub repository URL.
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Yaseen2112/supervity-document-agent
 cd supervity-document-agent
 ```
 
