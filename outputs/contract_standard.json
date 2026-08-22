@@ -1,0 +1,18 @@
+{
+  "document_type": "contract",
+  "contract_id": "CTR-2026-001",
+  "title": "SOFTWARE SERVICES AGREEMENT",
+  "parties": [
+    "TechSupply Solutions Pvt Ltd",
+    "Supervity Demo Corporation"
+  ],
+  "effective_date": "January 1, 2026",
+  "expiry_date": "December 31, 2026",
+  "payment_terms": "Net 30 days from invoice date.",
+  "key_obligations": [
+    "TechSupply Solutions will provide agreed software services.",
+    "Both parties must maintain confidentiality.",
+    "Services will be delivered according to agreed milestones."
+  ],
+  "termination_clause": "Either party may terminate this agreement with 30 days written notice."
+}
